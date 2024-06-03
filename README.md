@@ -41,6 +41,12 @@ I'm Giri, Senior Software Engineer at CDK Global, a full-stack developer and a t
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-black?style=flat-square&logo=amazon%20web%20services)
 ![Snowflake](https://img.shields.io/badge/Snowflake-blue?style=flat-square&logo=snowflake)
 
+### Testing tools:
+
+![JUnit5](https://img.shields.io/badge/JUnit5-blue?style=flat-square&logo=JUnit)
+![Jasmine](https://img.shields.io/badge/Jasmine-purple?style=flat-square&logo=jasmine)
+![protractor](https://img.shields.io/badge/protractor-red?style=flat-square&logo=protractor)
+
 ### DevOps & Cloud Tools:
 
 <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-%23327FC7.svg?logo=github&logoColor=white"></a>
