@@ -48,12 +48,21 @@ I'm Giri, Senior Software Engineer at CDK Global, a full-stack developer and a t
 ![protractor](https://img.shields.io/badge/protractor-red?style=flat-square&logo=protractor)
 
 ### DevOps & Cloud Tools:
-
+![Maven](https://img.shields.io/badge/Apache%20Maven-black?style=flat-square&logo=apache%20maven)
 <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-%23327FC7.svg?logo=github&logoColor=white"></a>
+<a href="#"><img alt="BitBucket" src="https://img.shields.io/badge/BitBucket-%23327FC7.svg?logo=bitbucket&logoColor=white"></a>
 ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon%20web%20services)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-white?style=flat-square&logo=kubernetes)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+
+### Code coverage:
+![SonarQube](https://img.shields.io/badge/SonarQube-white?style=flat-square&logo=sonarqube)
+![Jacoco](https://img.shields.io/badge/jacoco-purple?style=flat-square&logo=jacoco)
+
+### Project management:
+![Jira](https://img.shields.io/badge/Jira-blue?style=flat-square&logo=jira)
 
 ## What I Do
 
