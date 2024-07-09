@@ -34,6 +34,7 @@ I'm Giri, Senior Software Engineer at CDK Global, a full-stack developer and a t
 ### Libraries & Framework :
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?style=flat-square&logo=Spring&logoColor=white)
+![Apache kafka](https://img.shields.io/badge/Apache%20Kafka-black?style=flat-square&logo=ApacheKafka&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-grey?style=flat-square&logo=Hibernate)
 ![microservices](https://img.shields.io/badge/microservices-blue?style=flat-square&logo=microservices)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
