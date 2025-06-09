@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Giri, Senior Software Engineer at CDK Global, a full-stack developer and a tech enthusiast & I love solving complex problems and building scalable applications. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I'm Giri, Vice President at Goldman Sachs, Hyderabad, a senior full-stack developer and a tech enthusiast & I love solving complex problems and building scalable applications. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![LinkedIn Badge](https://img.shields.io/badge/girichippada-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fin.linkedin.com%2Fin%2Fgirichippada%3Ftrk%3Dprofile-badge)](https://www.linkedin.com/in/girichippada/)
 [![Gmail Badge](https://img.shields.io/badge/-giri.chippada@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giri.chippada@gmail.com)](mailto:giri.chippada@gmail.com)
